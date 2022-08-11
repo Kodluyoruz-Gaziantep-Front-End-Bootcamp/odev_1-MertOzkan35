@@ -36,7 +36,7 @@ her sorunun cevabını console.log ile yazıdırın
 
 ## Homework Description
 
-``` Javascript Array metorları kullanımı. ```
+``` Javascript Array metotları kullanımı. ```
 
 
 ## Author
